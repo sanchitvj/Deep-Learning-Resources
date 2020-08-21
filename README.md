@@ -4,4 +4,7 @@
 https://github.com/lonePatient/lookahead_pytorch  
 
 > CNN:  
-https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md
+https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md  
+
+> Pytorch examples useful link:  
+https://stackoverflow.com/questions/53975717/pytorch-connection-between-loss-backward-and-optimizer-step  
