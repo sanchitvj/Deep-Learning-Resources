@@ -10,5 +10,5 @@ https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md
 https://stackoverflow.com/questions/53975717/pytorch-connection-between-loss-backward-and-optimizer-step  
 https://adventuresinmachinelearning.com/pytorch-tutorial-deep-learning/  
 
->Computer Vision:  
+> Image Dehazing:  
 https://github.com/cxtalk/DehazeZoo  
