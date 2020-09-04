@@ -17,4 +17,5 @@ https://github.com/cxtalk/DehazeZoo
 -- Faster RCNN: https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/  
 
 > Useful blogs and websites:  
-https://www.jeremyjordan.me/
+https://www.jeremyjordan.me/  
+https://deeplearningdemystified.com/  
