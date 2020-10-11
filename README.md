@@ -13,6 +13,9 @@ https://adventuresinmachinelearning.com/pytorch-tutorial-deep-learning/
 > Image Dehazing:  
 https://github.com/cxtalk/DehazeZoo  
 
+> Low Light Enhancement  
+https://github.com/Elin24/Awesome-Low-Light-Enhancement
+
 > Object Detection:  
 -- Faster RCNN: https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/  
 
