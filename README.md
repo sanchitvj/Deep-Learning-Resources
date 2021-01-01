@@ -24,3 +24,6 @@ https://github.com/cxtalk/You-Can-See-Clearly-Now
 https://www.jeremyjordan.me/  
 https://deeplearningdemystified.com/  
 https://atcold.github.io/pytorch-Deep-Learning/  
+
+> Model Pruning and Compression  
+https://github.com/juliagusak/model-compression-and-acceleration-progress
