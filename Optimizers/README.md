@@ -1,4 +1,7 @@
 ## To get the understanding of optimizers
 
-> Optimizers:  
-https://github.com/lonePatient/lookahead_pytorch  
+> **Understanding Basic Optimizers**  
+[Optimizing Gradient Descent](https://ruder.io/optimizing-gradient-descent/)  
+
+> **Advance Optimizers and Implementation**  
+[Lookahead Optimizer(Pytorch)](https://github.com/lonePatient/lookahead_pytorch)  
