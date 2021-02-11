@@ -11,3 +11,5 @@
 [Pruning Toolkit(Pytorch)](https://github.com/VainF/Torch-Pruning)  
 [List of Pruning NN(code and papers)](https://github.com/he-y/Awesome-Pruning)  
 [Channel Pruning via Automatic Structure Search](https://github.com/lmbxmu/ABCPruner)  
+[Filter Pruning using High-Rank Feature Map(Pytorch)](https://github.com/lmbxmu/HRank)  
+[Pruning Filter in Filter(Pytorch)](https://github.com/fxmeng/Pruning-Filter-in-Filter)  
