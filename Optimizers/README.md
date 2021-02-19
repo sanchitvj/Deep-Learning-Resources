@@ -6,3 +6,5 @@
 > **Advance Optimizers and Implementation**  
 [Lookahead Optimizer(Pytorch)](https://github.com/lonePatient/lookahead_pytorch)  
 [Ranger Optimizer(Pytorch)](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer)  
+[Pytorch LR Finder](https://github.com/davidtvs/pytorch-lr-finder)  
+
