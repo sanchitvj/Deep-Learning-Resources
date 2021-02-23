@@ -10,6 +10,8 @@
 [AI Curriculum(Lect. from top universities)](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)   
 [One stop for ML](https://github.com/AdicherlaVenkataSai/ml-workspace)  
 [Data Science Path](https://github.com/ossu/data-science)  
+[Curated Papers, Articles, Blogs on Data Science](https://github.com/eugeneyan/applied-ml)  
+[Data Science on AWS](https://github.com/data-science-on-aws/workshop)  
 
 > **Projects**  
 [Model Zoo: a list of DL projects](https://modelzoo.co/)  
