@@ -16,3 +16,5 @@
 > **Projects**  
 [Model Zoo: a list of DL projects](https://modelzoo.co/)  
 [CV Pretrained Models](https://github.com/balavenkatesh3322/CV-pretrained-model)  
+[500 + AI Project List with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)  
+
